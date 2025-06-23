@@ -9,7 +9,7 @@ Sou um profissional com experiência sólida nas áreas de **Qualidade de Softwa
 ## 💼 Experiência Profissional
 
 ### 🏢 **The Members**  
-**🔹 Lead QA & Scrum Master**  
+**🔹 Lead QA **  
 📅 *2024 – atual*  
 - Liderança da área de qualidade com foco em eficiência, testes automatizados e governança de processos.
 - Liderança de equipe de qualidade;
